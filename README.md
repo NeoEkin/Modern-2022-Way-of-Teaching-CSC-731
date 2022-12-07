@@ -1,5 +1,5 @@
 # Modern (2022) Way of Teaching Computer Science Courses in the USA Universities, and to Ask the Following Question:
-#   Why the USian Universities Are FAILING so miserably to Do It?
+  # Why the USian Universities Are FAILING so miserably to Do It?
 
 ##  
 
