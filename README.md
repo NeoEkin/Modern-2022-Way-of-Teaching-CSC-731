@@ -2,9 +2,10 @@
 
 People Involved:
 1. Instructor
-2. Students:
-3.  Student A
-4.  Student B
+2.  Student A
+3.  Student B
+
+
 
 
 
