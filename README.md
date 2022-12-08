@@ -3,7 +3,9 @@
 People Involved:
 1. Instructor
 2. Students:
-    2.1. Student A
-    2.2. Student B
+3.  Student A
+4.  Student B
+
+
 
 
